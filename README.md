@@ -1,7 +1,7 @@
 ```
 $ neofetch --ascii_distro Arch
 
-                  -`                     Xhuy0404/Xhuy0404/README.md
+                  -`                     xhuy0404/xhuy0404/README.md
                  .o+`                    --------
                 `ooo/                    Full Name: Nguyen Hoang Xuan Huy
                `+oooo:                   Age: 19
