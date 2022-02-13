@@ -10,7 +10,7 @@ $ neofetch --ascii_distro Arch
             `/:-:++oooo+:                How to reach me:
            `/++++/+++++++:               - Facebook: https://www.facebook.com/xhuy.7/
           `/++++++++++++++:              - Gmail: xhuy0404@gmail.com
-         `/+++ooooooooooooo/`            
+         `/+++ooooooooooooo/`            - Real life :>
         ./ooosssso++osssssso+`           
        .oossssso-````/ossssss+`          
       -osssssso.      :ssssssso.         
