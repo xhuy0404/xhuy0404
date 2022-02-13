@@ -22,7 +22,7 @@ $ neofetch --ascii_distro Arch
 .`                                 `/
 
 ```
-Bonus : Here are [my MBTI type](https://www.16personalities.com/infj-personality) in case you want to know about my personality (without real life contact).  
+Bonus : Here are [my MBTI type](https://www.16personalities.com/infj-personality) in case you want to understand/know about my personality.  
 
 <!--
 **Xhuy0404/Xhuy0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
