@@ -1,25 +1,24 @@
 ```
-$ neofetch --ascii_distro Arch
+$ neofetch --ascii_distro Gentoo
 
-                  -`                     xhuy0404/xhuy0404/README.md
-                 .o+`                    --------
-                `ooo/                    Full Name: Nguyen Hoang Xuan Huy
-               `+oooo:                   Age: 19
-              `+oooooo:                  Country: Vietnam
-              -+oooooo+:                 
-            `/:-:++oooo+:                How to reach me:
-           `/++++/+++++++:               - Facebook: https://www.facebook.com/xhuy.7/
-          `/++++++++++++++:              - Gmail: xhuy0404@gmail.com
-         `/+++ooooooooooooo/`            - Real life :>
-        ./ooosssso++osssssso+`           
-       .oossssso-````/ossssss+`          
-      -osssssso.      :ssssssso.         
-     :osssssss/        osssso+++.
-    /ossssssss/        +ssssooo/-
-  `/ossssso+/:-        -:/+osssso+-
- `+sso+:-`                 `.-/+oso:
-`++:.                           `-/+/
-.`                                 `/
+         -/oyddmdhs+:.                  xhuy0404/xhuy0404/README.md
+     -odNMMMMMMMMNNmhy+-`               --------
+   -yNMMMMMMMMMMMNNNmmdhy+-             Full Name: Nguyen Hoang Xuan Huy
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`          Age: 19
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`        Country: Vietnam
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`      
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.     How to reach me: 
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh     - Facebook: https://www.facebook.com/xhuy.7/
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy     - Gmail: xhuy0404@gmail.com
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:     - Real life !
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`
++MMMMMMMNNNNNmmmmdmNMNdso/-
+yMMNNNNNNNmmmmmNNMmhs+/-`
+/hMMNNNNNNNNMNdhs++/-`
+`/ohdmmddhys+++/:.`
+  `-//////:--.
 
 ```
 Bonus : Here are [my MBTI type](https://www.16personalities.com/infj-personality) in case you want to understand/know about my personality.  
